@@ -1,0 +1,1 @@
+int sinal(int n);
